@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+out/
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.temp
+
+# Exclude tests and coverage reports
+*.test.js
+*.spec.js
+coverage/
+
+# Miscellaneous
+*.tgz
+*.zip
